@@ -135,4 +135,6 @@ const Cart = () => {
   );
 };
 
+
+// exporting the app
 export default Cart;
